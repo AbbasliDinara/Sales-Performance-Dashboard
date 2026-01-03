@@ -70,4 +70,5 @@ This dashboard supports:
 For any questions, feedback, or collaboration opportunities:
 
 LinkedIn: [https://www.linkedin.com/in/dinara-abbasli-108821217/]
+
 Email: [abbaslidinara@gmail.com]
