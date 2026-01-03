@@ -65,3 +65,9 @@ This dashboard supports:
 - Early detection of problem areas in the sales funnel
 
 ---
+## 📬 Contact
+
+For any questions, feedback, or collaboration opportunities:
+
+LinkedIn: [https://www.linkedin.com/in/dinara-abbasli-108821217/]
+Email: [abbaslidinara@gmail.com]
